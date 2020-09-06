@@ -41,6 +41,54 @@
             "Deixe o frango fritando na panela por 20 minutos",
             "Coloque o queijo por cima do frango"          
         ]
+      },
+    {
+        "id": 3,
+        "name": "Churros",
+        "category": "Principal",
+        "time": 100,
+        "portions": 8,
+        "images": [
+            "https://s2.glbimg.com/luPLcMoKXotgr4_bOjNJxCVx5nE=/0x0:1280x854/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/m/Q/KCBlZhQymOGvuIsqKaeg/churros-caseiro.jpeg",
+            "https://img.itdg.com.br/tdg/images/recipes/000/182/782/242281/242281_original.jpg?mode=crop&width=710&height=400",
+            "https://img.cybercook.com.br/receitas/287/churros-2-623x350.jpeg"
+        ],
+        "ingredients": [
+            "300 g de Farinha",
+            "50 ml de óleo",
+            "1 colher de açúcar",
+            "1 colher de pó de canela",
+            "1 lata de doce de leite"
+        ],
+        "steps": [
+            "Misture em uma bacia a farinha e o açúcar",
+            "Quando a massa estiver boa, frite a massa",
+            "Recheie o churros com o doce de leite",
+            "Passe canela em volta do churros"
+        ]
+      },
+     {
+        "id": 4,
+        "name": "Salada de Frutas",
+        "category": "Saladas",
+        "time": 20,
+        "portions": 4,
+        "images": [
+            "https://img.cybercook.com.br/receitas/944/salada-de-frutas-3.jpeg",
+            "https://cozinhalegal.com.br/files/receitas/746/salada-frutas-com-creme-5.jpg"
+        ],
+        "ingredients": [
+            "100g de banana",
+            "100g de kiwi",
+            "100g de morango",
+            "1 colher de açúcar"
+        ],
+        "steps": [
+            "Corte em pequenos pedaços as frutas",
+            "Coloque todas as frutas em uma vasilha",
+            "Mexa as frutas",
+            "Jogue o açucar por cima das frutas"
+        ]
       }
   ]
 }
