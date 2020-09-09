@@ -24,7 +24,7 @@
     {
         "id": 2,
         "name": "Filé Parmegiana",
-        "category": "Prato principal",
+        "category": "Principal",
         "time": 60,
         "portions": 4,
         "images": [
@@ -45,7 +45,7 @@
     {
         "id": 3,
         "name": "Churros",
-        "category": "Principal",
+        "category": "Sobremesas",
         "time": 100,
         "portions": 8,
         "images": [
