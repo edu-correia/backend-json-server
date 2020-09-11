@@ -1,6 +1,7 @@
 {
   "recipes": [
     {
+      "token":"d6bd57c29c2304834541c778febaba5f",
       "id": 1,
       "name": "Batata Assada com Alecrim",
       "category": "Acompanhamentos",
@@ -22,6 +23,7 @@
       ]
     },
     {
+        "token": "66e3b0f849839aa82b2e424c7a79207c",
         "id": 2,
         "name": "Filé Parmegiana",
         "category": "Principal",
@@ -43,6 +45,7 @@
         ]
       },
     {
+        "token": "1a3433912e098a712fecc606314c00ff",
         "id": 3,
         "name": "Churros",
         "category": "Sobremesas",
@@ -68,6 +71,7 @@
         ]
       },
      {
+        "token": "d6e5083a3ed9e195c457914bbea5e261",
         "id": 4,
         "name": "Salada de Frutas",
         "category": "Saladas",
