@@ -267,6 +267,78 @@
             "Coloque tudo dentro de uma tigela",
             "Coloque na geladeira por 15 minutos a tigela"
         ]
+      },
+     {
+        "token": "ed9877a0ff418db159b237f071e5a65e",
+        "id": 12,
+        "name": "Repolho Refogado",
+        "category": "Saladas",
+        "time": 20,
+        "portions": 2,
+        "images": [
+            "https://craftlog.com/m/i/8457566=s1280=h960",
+            "https://www.receitasdecomida.com.br/wp-content/uploads/2015/03/repolho-cozido-na-manteiga-2836.jpg"
+        ],
+        "ingredients": [
+            "1 repolho lavado e fatiado fino",
+            "1 dente de alho",
+            "2 colheres de azeite doce",
+            "1 lata de ervilha",
+            "1 lata de milho"
+        ],
+        "steps": [
+            "Em uma panela coloque o azeite e o alho batido",
+            "Acrescente o repolho e mexa até murchar um pouco",
+            "Salpique sal e coloque o milho, ervilha e a salsinha picada",
+            "Pode servi com arroz branco e frango assado."
+        ]
+      },
+     {
+        "token": "b0bab65adf8a8d440cc9f535f3d5fd45",
+        "id": 13,
+        "name": "Salada de Tomate",
+        "category": "Saladas",
+        "time": 12,
+        "portions": 4,
+        "images": [
+            "https://img.itdg.com.br/tdg/images/recipes/000/011/049/320098/320098_original.jpg?mode=crop&width=710&height=400",
+            "https://eugourmet.files.wordpress.com/2011/11/dsc_2499.jpg"
+        ],
+        "ingredients": [
+            "500g de tomate",
+            "2 cebolas roxa",
+            "Sal a gosto",
+            "50ml de azeite"
+        ],
+        "steps": [
+            "Lave e corte os tomates",
+            "Em um prato, corte a cebola",
+            "Despeje o azeite e coloque os tomates junto",
+            "Salpique e sal e sirva"
+        ]
+      },
+     {
+        "token": "dd17bed2198dbaaf12f33348cf14348f",
+        "id": 14,
+        "name": "Salada de Ovo",
+        "category": "Saladas",
+        "time": 25,
+        "portions": 5,
+        "images": [
+            "https://www.receitasnestle.com.br/images/default-source/recipes/salada_de_batata_com_ovo_alta.jpg",
+            "https://img-global.cpcdn.com/recipes/caf362f23a85df7d/1200x630cq70/photo.jpg"
+        ],
+        "ingredients": [
+            "8 ovos",
+            "3 colheres (sopa) de maionese caseira",
+            "6 ramos de salsinha"
+        ],
+        "steps": [
+            "Cozinhe os ovos por 7 minutos",
+            "Corte a salsinha",
+            "Numa tigela misture bem a maionese com as ervas picadas",
+            "Sirva a seguir com pães, legumes e salada de folhas"
+        ]
       }
   ]
 }
