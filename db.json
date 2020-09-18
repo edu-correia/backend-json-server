@@ -93,6 +93,81 @@
             "Mexa as frutas",
             "Jogue o açucar por cima das frutas"
         ]
+      },
+     {
+        "token": "c7cdafd30c26b11cc0f99c22a25ed3cb",
+        "id": 5,
+        "name": "Lanche de Pernil",
+        "category": "Lanches",
+        "time": 30,
+        "portions": 2,
+        "images": [
+            "https://i.ytimg.com/vi/ogEe5pe35U4/maxresdefault.jpg",
+            "https://br.toluna.com/dpolls_images/2017/12/17/16c12547-1a55-4f34-8f7e-ecfe385860b0_x365.jpg",
+            "https://www.saboresajinomoto.com.br/uploads/images/recipes/sanduiche-de-pernil-1.jpg"
+        ],
+        "ingredients": [
+            "1/2 kg de pernil de porco sem osso",
+            "2 tomates médios cortados em rodelas",
+            "1 frasco (250 g) de maionese",
+            "6 pães franceses cortados ao meio"
+        ],
+        "steps": [
+            "Coloque o óleo na panela de pressão",
+            "Junte o pernil e frite por 5 minutos ou até dourar",
+            "Acrescente o cheiro-verde e a maionese e misture",
+            "Recheie os pães e sirva em seguida"
+        ]
+      },
+     {
+        "token": "76598586c749fee7e08f3b2c54e9d870",
+        "id": 6,
+        "name": "Hambúrguer",
+        "category": "Lanches",
+        "time": 18,
+        "portions": 4,
+        "images": [
+            "https://img.itdg.com.br/tdg/images/blog/uploads/2020/05/shutterstock_1710468256.jpg",
+            "https://i2.wp.com/www.portaldbo.com.br/wp-content/uploads/2019/12/Hamb%C3%BArguer-vegetal-da-Marfrig_destaque.png?resize=850%2C445&ssl=1"
+        ],
+        "ingredients": [
+            "4 hambúrguers",
+            "300 g de bacon moído",
+            "1 frasco (250 g) de maionese",
+            "4 pães de hambúrguer",
+            "200g de mussarela"
+        ],
+        "steps": [
+            "Corte o pão no meio",
+            "Frite o hambúrguer e o bacon",
+            "Coloque todos os ingredientes dentro do pão"
+        ]
+      },
+     {
+        "token": "68f00b74256364cda1865400c026cac2",
+        "id": 7,
+        "name": "Pastel",
+        "category": "Lanches",
+        "time": 45,
+        "portions": 8,
+        "images": [
+            "https://s2.glbimg.com/fDG7HWplXloyGG8MAiMtam4-8y4=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/po/rc/media/2014/10/28/17_58_29_769_pastel_maria.jpg",
+            "https://www.comidaereceitas.com.br/wp-content/uploads/2007/11/Pastel_feiraaoo.jpg"
+        ],
+        "ingredients": [
+            "Massa de pastel",
+            "500 g de carne moída",
+            "1 bisnaga de catupiry ou cheddar",
+            "300g de mussarela"
+        ],
+        "steps": [
+            "Abra a massa do Pastel",
+            "Frite a carne moída",
+            "Fatia a mussarela em pequenos pedaços",
+            "Posicione a carne e o queijo no meio da massa",
+            "Dobre a massa e pressione o garfo nas pontas",
+            "Frite o pastel"
+        ]
       }
   ]
 }
