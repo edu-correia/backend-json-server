@@ -168,6 +168,105 @@
             "Dobre a massa e pressione o garfo nas pontas",
             "Frite o pastel"
         ]
+      },
+     {
+        "token": "1efc9b35174d38f252962668c7e07163",
+        "id": 8,
+        "name": "Esfiha",
+        "category": "Lanches",
+        "time": 35,
+        "portions": 6,
+        "images": [
+            "https://img.itdg.com.br/images/recipes/000/110/449/326013/326013_original.jpg",
+            "https://i0.statig.com.br/bancodeimagens/57/6i/7q/576i7qbxxm8hfhfnzfba7jvpe.jpg"
+        ],
+        "ingredients": [
+            "1 colher (sopa) bem cheia de fermento para pão",
+            "1/2 colher (chá) de sal",
+            "1 ovo",
+            "650 ou 700 g de farinha de trigo",
+            "1/2 kg de carne moída magra",
+            "3 tomates picadinhos"
+        ],
+        "steps": [
+            "Coloque o trigo, o ovo e o fermento em uma tigela e mexa",
+            "Frite a carne moída",
+            "Asse a massa por 20 minutos",
+            "Posicione a carne no meio da massa",
+            "Corte e enrole as bordas das esfihas"
+        ]
+      },
+     {
+        "token": "f57876c3541667d13e68a8d8f862986e",
+        "id": 9,
+        "name": "Mandioca Frita",
+        "category": "Acompanhamentos",
+        "time": 15,
+        "portions": 10,
+        "images": [
+            "https://i0.statig.com.br/bancodeimagens/5s/ew/8g/5sew8gywbhgocw9sggp96l98k.jpg",
+            "https://cdn.panelinha.com.br/receita/964494000000-Mandioca-frita.jpg"
+        ],
+        "ingredients": [
+            "1 kg de mandioca",
+            "1/2 colher (chá) de sal",
+            "50ml de óleo"
+        ],
+        "steps": [
+            "Lave e descasque a mandioca",
+            "Frite a mandioca no óleo",
+            "Salpique o sal na mandioca quando pronta"
+        ]
+      },
+     {
+        "token": "3a0a5f627038625ba97c573668febd20",
+        "id": 10,
+        "name": "Purê de Batata",
+        "category": "Acompanhamentos",
+        "time": 50,
+        "portions": 6,
+        "images": [
+            "https://piracanjuba.com.br/content/receitas/cont/0000000084/rec084_1721.jpg",
+            "https://img.cybercook.com.br/imagens/receitas/518/como-fazer-pure-de-batata-1-623x350.jpg"
+        ],
+        "ingredients": [
+            "1 kg de batata",
+            "1/2 xícara de leite",
+            "2 colheres (sopa) de margarina",
+            "1 dente de alho espremido"
+        ],
+        "steps": [
+            "Cozinhe as batatas até ficarem bem moles",
+            "Descasque-as ainda quentes e esprema as batatas no espremedor",
+            "Misture a batata com a margarina",
+            "Acrescente o leite aos poucos e continue mexendo"
+        ]
+      },
+     {
+        "token": "57694d28de40a1d156d3d5e4cbb3026e",
+        "id": 11,
+        "name": "Maionese de Batata",
+        "category": "Acompanhamentos",
+        "time": 30,
+        "portions": 3,
+        "images": [
+            "https://s2.glbimg.com/kSLNey3qVQsVStKmRCuAVKA5Q6U=/1200x/smart/filters:cover():strip_icc()/s.glbimg.com/po/rc/media/2012/11/05/18_15_23_456_salada_de_batata2_660x439.jpg",
+            "https://abrilmdemulher.files.wordpress.com/2017/09/maionese-de-batata.jpg?quality=90&strip=info&w=654&h=436&crop=1"
+        ],
+        "ingredients": [
+            "1 kg de batata",
+            "300 g de maionese de boa qualidade",
+            "1 colher (sopa) de mostarda amarela",
+            "1 cebola picada",
+            "4 ovos"
+        ],
+        "steps": [
+            "Lave bem as batatas",
+            "Em seguida, descasque-as e corte-as em cubinhos",
+            "Cozinhe as batatas",
+            "Coloque tudo dentro de uma tigela",
+            "Coloque na geladeira por 15 minutos a tigela"
+        ]
       }
   ]
 }
