@@ -414,6 +414,82 @@
             "Coloque em uma forma redonda e despeje a massa do pudim por cima",
             "Asse em forno médio por 45 minutos"
         ]
+      },
+     {
+        "token": "1b39j75ccf7a852d6f9f9ab5b113bb86",
+        "id": 18,
+        "name": "Macarronada",
+        "category": "Principal",
+        "time": 70,
+        "portions": 6,
+        "images": [
+            "https://gomesdacosta.com.br/app/uploads/2017/04/macarronada-mobile-1.jpg",
+            "https://img.cybercook.com.br/receitas/634/macarronada-3.jpeg",
+            "https://anoteareceita.com.br/wp-content/uploads/2020/01/receitas-de-macarronada-1-e1579558840311.jpeg"
+        ],
+        "ingredients": [
+            "1 pacote de macarrão parafuso",
+            "Frango cozido desfiado",
+            "2 tomates maduros",
+            "1 lata de extrato de tomate",
+            "Queijo e presunto"
+        ],
+        "steps": [
+            "Coloque a água com o sal para ferver",
+            "Enquanto isso prepare o molho",
+            "Acrescente o macarrão e deixe por 10 minutos no fogo",
+            "Mexa muito bem para todo o macarrão ficar coradinho"
+        ]
+      },
+     {
+        "token": "1b39j75ccf7a852d123f9ab5b113b457",
+        "id": 19,
+        "name": "Lasanha",
+        "category": "Principal",
+        "time": 90,
+        "portions": 10,
+        "images": [
+            "https://p2.trrsf.com/image/fget/cf/940/0/images.terra.com/2018/06/13/lasanha.jpg",
+            "https://img.itdg.com.br/tdg/images/recipes/000/138/558/325115/325115_original.jpg?w=1200"
+        ],
+        "ingredients": [
+            "meio quilo de carne moída",
+            "meio quilo de massa para lasanha",
+            "1 cebola pequena picada",
+            "1 lata de polpa de tomate",
+            "0,5 kg mussarela e presunto"
+        ],
+        "steps": [
+            "Cozinhe a massa de acordo com as instruções da embalagem",
+            "Em uma panela, aqueça o óleo e refogue a carne",
+            "Junte a farinha de trigo e deixe dourar",
+            "Cubra o recheio com uma camada de massa e uma de mussarela"
+        ]
+      },
+     {
+        "token": "852d123f1b39j75ccf7a9ab5b113b457",
+        "id": 20,
+        "name": "Salmão Grelhado",
+        "category": "Principal",
+        "time": 50,
+        "portions": 4,
+        "images": [
+            "https://www.receiteria.com.br/wp-content/uploads/receitas-de-salmao-grelhado-1200x774.jpg",
+            "https://static1.casapraticaqualita.com.br/articles/5/83/5/@/885-o-salmao-e-um-dos-peixes-mais-saborosos-article_content_img-2.jpg"
+        ],
+        "ingredients": [
+            "600 g de filé de salmão sem pele, cortado em 4 postas",
+            "3 pitadas de sal",
+            "2 colheres (sopa) de manteiga sem sal",
+            "1 sachê de tempero Sazón"
+        ],
+        "steps": [
+            "Em um recipiente raso, coloque o salmão e o sal",
+            "Deixe marinar na geladeira por 30 minutos",
+            "Coloque metade da manteiga temperada e leve ao fogo alto para derreter.",
+            "Frite as postas, aos poucos, por 3 minutos de cada lado, ou até que dourem",
+            "Disponha a manteiga restante pela superfície das postas e sirva em seguida"
+        ]
       }
   ]
 }
